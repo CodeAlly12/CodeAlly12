@@ -7,7 +7,7 @@ I'm a passionate software engineer from  Kenya, who believes in Innovation, Expe
 # 📫 Let's Connect!
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/----esthermary-----) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Esther-Mary-Alitwala) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/estheralitwala) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Possible_forever_381) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ally@tlink.dk) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/----esthermary-----) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Esther-Mary-Alitwala) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/estheralitwala) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Possible_forever_381) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:allyessy@outook.com) 
 
 ## 🌍 Location: Kenya
 
