@@ -1,8 +1,64 @@
-## Hi there, I'm Esther Mary Alitwala! 👋 <br>
-Software Engineer | Multi-Industry Entrepreneur | AI & Cloud Computing Enthusiast <br>
-I'm a passionate software engineer from  Kenya, who believes in Innovation, Experience, and Connection to drive meaningful technological solutions.
+<!-- Header -->
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a5c,50:2563a8,100:e8a840&height=160&section=header&text=Esther-Alitwala&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Software%20Engineer%20·%20Aviation%20%26%20Travel%20Designer&descAlignY=75&descSize=16" width="100%"/>
 
+</div>
+
+---
+
+### `> cleared for departure.`
+
+I'm a **Software Engineering Specialist** and **Aviation & Travel Designer** operating at the intersection of technology, aerospace operations, and East African markets. I build products that only an industry insider could conceive — turning domain knowledge into competitive advantage.
+
+Currently:
+- ✈️ Building **charter booking & fleet management** software for East African AOC-holders
+- 🏡 Managing a portfolio of **boutique coastal properties** in Malindi & Watamu, Kenya
+- 🤖 Developing an **AI consulting practice** for aviation and real estate verticals
+- 🌍 Expanding into **Uganda** — property management and land intelligence platforms
+
+---
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-1a3a5c?style=flat-square&logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-2563a8?style=flat-square&logo=n8n&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-e8a840?style=flat-square&logoColor=white)
+![Together AI](https://img.shields.io/badge/Together_AI-c44a20?style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1a3a5c?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-2563a8?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 📍 Domain Coordinates
+
+| | |
+|---|---|
+| **Industry** | Aviation Operations · Hospitality · AI/Tech |
+| **Markets** | Kenya · Uganda · East Africa |
+| **Current Build** | Charter Booking Platform · AI Consulting · TitleClear |
+| **Base** | Nairobi, Kenya |
+
+---
+
+### ✦ What I'm About
+
+> *Engineering precision meets aviation instinct.*
+> I don't just write software — I build intelligence layers over industries I know from the inside.
+> Charter ops, coastal hospitality, land registries, AI automation — all of it, one commit at a time.
+
+---
+
+<div align="center">
+
+![runway](https://img.shields.io/badge/●_●_○_○_●-runway_lights-1a3a5c?style=flat-square)
+
+*Kenya · Uganda · Cleared for departure.*
+
+</div>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8a840,50:2563a8,100:1a3a5c&height=100&section=footer" width="100%"/>
 
 # 📫 Let's Connect!
 
