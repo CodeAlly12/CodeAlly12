@@ -1,10 +1,9 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a5c,50:2563a8,100:e8a840&height=160&section=header&text=Esther-Alitwala&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Software%20Engineer%20·%20Aviation%20%26%20Travel%20Designer&descAlignY=75&descSize=16" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a3a5c,50:2563a8,100:e8a840&height=160&section=header&text=Esther-Alitwala&fontSize=42&fontColor=fff&fontAlignY=55&desc=Software+Engineer+%C2%B7+Aviation+%26+Travel+Designer&descAlignY=75&descSize=16)
 
 </div>
-
 ---
 
 ### `> cleared for departure.`
@@ -57,8 +56,7 @@ Currently:
 
 </div>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8a840,50:2563a8,100:1a3a5c&height=100&section=footer" width="100%"/>
+
 
 # 📫 Let's Connect!
 
@@ -86,8 +84,12 @@ Currently:
 ---
 [![](https://visitcount.itsvg.in/api?id=CodeAlly12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## ⚡ Fun fact
+
+
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8a840,50:2563a8,100:1a3a5c&height=100&section=footer" width="100%"/>
 I successfully balance software engineering with running a boutique BnB - proving that great code and great hospitality both require attention to detail and user experience! 🏨💻
 
 
