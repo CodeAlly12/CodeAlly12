@@ -1,11 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a3a5c,50:2563a8,100:e8a840&height=160&section=header&text=Esther-Alitwala&fontSize=42&fontColor=fff&fontAlignY=55)
-
-### Software Engineer · Aviation & Travel Designer
+![header](./assets/esther_header.png)
 
 </div>
-
 ---
 
 ### `> cleared for departure.`
