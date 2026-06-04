@@ -1,79 +1,10 @@
-
 <div align="center">
-<svg width="100%" viewBox="0 0 1400 300" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="topbar" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#1a3a5c"/>
-      <stop offset="35%"  stop-color="#2563a8"/>
-      <stop offset="65%"  stop-color="#e8a840"/>
-      <stop offset="100%" stop-color="#c44a20"/>
-    </linearGradient>
-  </defs>
 
-  <!-- Background -->
-  <rect width="1400" height="300" fill="#121214"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a3a5c,50:2563a8,100:e8a840&height=160&section=header&text=Esther-Alitwala&fontSize=42&fontColor=fff&fontAlignY=55)
 
-  <!-- Top accent bar -->
-  <rect width="1400" height="5" fill="url(#topbar)"/>
+### Software Engineer · Aviation & Travel Designer
 
-  <!-- Eyebrow -->
-  <text x="70" y="62"
-    font-family="Georgia, serif"
-    font-size="14"
-    font-weight="500"
-    letter-spacing="3"
-    fill="#8c8c96">PROFESSIONAL INTRODUCTION</text>
-
-  <!-- Name: Esther- regular -->
-  <text x="70" y="172"
-    font-family="Georgia, serif"
-    font-size="96"
-    font-weight="bold"
-    fill="#f5f5f5">Esther-</text>
-
-  <!-- Name: Alitwala italic -->
-  <text x="444" y="172"
-    font-family="Georgia, serif"
-    font-size="96"
-    font-style="italic"
-    fill="#f5f5f5">Alitwala</text>
-
-  <!-- Pill: Software Engineer -->
-  <rect x="70" y="204" width="222" height="44" rx="22" fill="#1e3764" stroke="#4a7ab4" stroke-width="1"/>
-  <text x="181" y="231"
-    font-family="Arial, sans-serif"
-    font-size="14"
-    font-weight="500"
-    fill="#b4d2ff"
-    text-anchor="middle">Software Engineer</text>
-
-  <!-- Pill: Aviation & Travel Designer -->
-  <rect x="306" y="204" width="276" height="44" rx="22" fill="#1e3764" stroke="#4a7ab4" stroke-width="1"/>
-  <text x="444" y="231"
-    font-family="Arial, sans-serif"
-    font-size="14"
-    font-weight="500"
-    fill="#b4d2ff"
-    text-anchor="middle">Aviation &amp; Travel Designer</text>
-
-  <!-- Pill: East Africa -->
-  <rect x="596" y="204" width="150" height="44" rx="22" fill="none" stroke="#505058" stroke-width="1"/>
-  <text x="671" y="231"
-    font-family="Arial, sans-serif"
-    font-size="14"
-    fill="#a0a0aa"
-    text-anchor="middle">East Africa</text>
-
-  <!-- Pill: Kenya · Uganda -->
-  <rect x="760" y="204" width="170" height="44" rx="22" fill="none" stroke="#505058" stroke-width="1"/>
-  <text x="845" y="231"
-    font-family="Arial, sans-serif"
-    font-size="14"
-    fill="#a0a0aa"
-    text-anchor="middle">Kenya · Uganda</text>
-</svg>
 </div>
-
 ---
 
 ### `> cleared for departure.`
