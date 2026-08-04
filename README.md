@@ -9,9 +9,8 @@
 
 ### 👋 Hi, I'm Esther
 
-I'm a software developer with an **MSc in Computer Science** and a JavaScript foundation, and I learn by building. Right now most of my curiosity lives in **AI assistants and automation** — figuring out how to wire models to tools and data so they do genuinely useful work.
+I'm a software developer with an **MSc in Computer Science** and a JavaScript foundation, and I learn by building. Right now most of my curiosity lives in **Agentic AI and automation**  figuring out how to wire models to tools and data so they do genuinely useful work.
 
-I'm honest about where I'm experienced and where I'm still growing, and I enjoy the growing part.
 
 **What I'm working on:**
 - 🤖 Building **custom AI assistants and agents** with Python on Claude, OpenAI & Together AI
