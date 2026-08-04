@@ -89,8 +89,8 @@ I'm honest about where I'm experienced and where I'm still growing, and I enjoy 
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esther-maryalitwala)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B5B?logo=googlechrome&logoColor=white)](https://codeally12.github.io/EstherAlitwala/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:allyessy@outlook.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B5B?logo=googlechrome&logoColor=white)](https://https://codeally12.github.io/Esther-Alitwala/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ally@tlink.dk)
 
 ### ⚡ Fun fact
 > *"Start small, dream big, but never stop adapting to what people truly need."* ✨
